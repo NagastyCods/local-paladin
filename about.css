@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(99, 97, 97);
+}
+
+.about-img{
+    margin-left: 40px;
+    padding: 40px;
+}
+
+.container{
+    margin: 40px;
+    padding: 80px;
+}
